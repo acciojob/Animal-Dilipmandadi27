@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+.container {
+  width: 1200px;
+  margin: 0px auto;
+  background-color: rgb(84, 77, 77);
+  text-align: center;
+}
+h1 {
+  font-size: 50px;
+  padding-top: 10px;
+  color: white;
+}
+
+img {
+  border-radius: 40px;
+  padding: 20px;
+}
